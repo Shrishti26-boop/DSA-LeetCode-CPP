@@ -8,6 +8,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 ## Stack
 |  |
 | ------- |
