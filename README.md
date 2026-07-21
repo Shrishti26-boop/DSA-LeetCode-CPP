@@ -31,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Design
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
