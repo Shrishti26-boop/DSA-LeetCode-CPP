@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0162-find-peak-element) |
+| [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
