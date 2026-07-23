@@ -18,6 +18,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0050-powx-n](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0050-powx-n) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1922-count-good-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1922-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
