@@ -17,6 +17,7 @@
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
