@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0162-find-peak-element) |
@@ -126,6 +127,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
