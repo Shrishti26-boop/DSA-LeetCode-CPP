@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0503-next-greater-element-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
