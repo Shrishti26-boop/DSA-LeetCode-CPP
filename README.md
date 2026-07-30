@@ -52,6 +52,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,12 +95,14 @@
 | [2929-distribute-candies-among-children-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2929-distribute-candies-among-children-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -170,4 +174,5 @@
 |  |
 | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2929-distribute-candies-among-children-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
