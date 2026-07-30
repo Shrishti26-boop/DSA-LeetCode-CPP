@@ -49,6 +49,7 @@
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -93,6 +94,7 @@
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1922-count-good-numbers) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2929-distribute-candies-among-children-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -165,6 +167,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
 |  |
