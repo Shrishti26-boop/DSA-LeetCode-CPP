@@ -183,4 +183,8 @@
 | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2929-distribute-candies-among-children-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
