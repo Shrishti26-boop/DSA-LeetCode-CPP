@@ -48,6 +48,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
