@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0162-find-peak-element) |
 | [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -155,6 +158,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,4 +197,8 @@
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0627-swap-sex-of-employees) |
 | [1873-calculate-special-bonus](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1873-calculate-special-bonus) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
