@@ -20,6 +20,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
@@ -97,6 +98,7 @@
 | [0050-powx-n](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1922-count-good-numbers) |
@@ -159,6 +161,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,4 +204,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
