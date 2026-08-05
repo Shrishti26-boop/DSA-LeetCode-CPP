@@ -245,8 +245,17 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
+| [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
