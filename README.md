@@ -71,6 +71,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0031-next-permutation) |
+| [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -228,4 +230,9 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
