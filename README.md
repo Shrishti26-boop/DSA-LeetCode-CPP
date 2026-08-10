@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
@@ -247,15 +248,18 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
