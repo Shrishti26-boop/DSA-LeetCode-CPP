@@ -263,6 +263,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -276,6 +277,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
@@ -293,6 +295,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
