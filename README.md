@@ -182,6 +182,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
@@ -262,6 +263,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
@@ -277,6 +279,7 @@
 | [0100-same-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
@@ -296,6 +299,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
@@ -324,5 +328,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
