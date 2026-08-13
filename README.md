@@ -29,6 +29,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -61,6 +62,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -151,6 +153,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Recursion
 |  |
@@ -344,4 +347,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0543-diameter-of-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
