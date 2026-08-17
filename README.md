@@ -26,6 +26,7 @@
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2029-stone-game-ix) |
@@ -197,6 +199,7 @@
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -250,6 +253,7 @@
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
