@@ -240,6 +240,7 @@
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0627-swap-sex-of-employees) |
+| [1729-find-followers-count](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1873-calculate-special-bonus) |
 ## Game Theory
 |  |
