@@ -24,6 +24,7 @@
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
@@ -85,6 +86,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0090-subsets-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -225,6 +228,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
