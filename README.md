@@ -136,6 +136,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
 |  |
