@@ -296,6 +296,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0147-insertion-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
