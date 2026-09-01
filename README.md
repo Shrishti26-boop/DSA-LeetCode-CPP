@@ -265,6 +265,7 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0627-swap-sex-of-employees) |
 | [1484-group-sold-products-by-the-date](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
