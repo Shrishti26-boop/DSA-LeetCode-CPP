@@ -40,6 +40,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -102,6 +103,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3731-find-missing-elements) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -414,6 +418,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
