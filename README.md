@@ -254,6 +254,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2029-stone-game-ix) |
@@ -344,6 +345,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -369,6 +371,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -402,6 +405,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -458,4 +462,9 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
