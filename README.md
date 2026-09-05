@@ -46,6 +46,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
