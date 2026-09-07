@@ -72,6 +72,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
