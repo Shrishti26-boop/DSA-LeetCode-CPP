@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0162-find-peak-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
@@ -99,6 +100,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
@@ -166,6 +168,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2029-stone-game-ix) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0147-insertion-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -476,5 +480,18 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
