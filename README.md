@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0147-insertion-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
@@ -259,6 +261,7 @@
 | [0031-next-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -486,6 +489,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -495,4 +499,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
