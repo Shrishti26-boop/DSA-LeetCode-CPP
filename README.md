@@ -165,6 +165,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3870-count-commas-in-range](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Counting
