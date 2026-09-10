@@ -365,6 +365,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -391,6 +392,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -425,6 +427,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
