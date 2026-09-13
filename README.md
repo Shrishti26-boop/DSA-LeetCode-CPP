@@ -22,6 +22,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -185,6 +186,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
