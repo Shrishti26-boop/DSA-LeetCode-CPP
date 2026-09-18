@@ -77,6 +77,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0940-distinct-subsequences-ii) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1922-count-good-numbers) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
@@ -289,6 +292,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0044-wildcard-matching) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
