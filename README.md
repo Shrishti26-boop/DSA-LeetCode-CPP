@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
