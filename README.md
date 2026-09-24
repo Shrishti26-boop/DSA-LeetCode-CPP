@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
@@ -199,6 +200,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 | [0835-image-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 ## Greedy
 |  |
 | ------- |
@@ -409,6 +412,7 @@
 | [0110-balanced-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0199-binary-tree-right-side-view) |
@@ -469,6 +473,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0515-find-largest-value-in-each-tree-row) |
