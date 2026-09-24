@@ -1,11 +1,11 @@
 class Solution {
 public:
+    vector<vector<int>> ans;
     vector<int>temp;
-    vector<vector<int>>ans;
     void solve(int index,vector<int>& nums){
         ans.push_back(temp);
         for(int i=index;i<nums.size();i++){
-            if(i>index&&nums[i]==nums[i-1]) continue;
+            if(i>index&&nums[i]==nums[i-1])  continue;
             temp.push_back(nums[i]);
             solve(i+1,nums);
             temp.pop_back();
