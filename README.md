@@ -68,6 +68,7 @@
 | [0503-next-greater-element-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0784-letter-case-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -115,6 +117,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
@@ -255,6 +258,7 @@
 | [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -288,6 +292,7 @@
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0784-letter-case-permutation) |
+| [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -482,6 +487,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
