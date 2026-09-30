@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
@@ -91,6 +92,7 @@
 | [0020-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0344-reverse-string) |
@@ -220,6 +222,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 | [0835-image-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
@@ -311,6 +314,7 @@
 | [0046-permutations](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0784-letter-case-permutation) |
@@ -433,6 +437,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0100-same-tree) |
