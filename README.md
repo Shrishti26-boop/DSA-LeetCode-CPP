@@ -95,6 +95,7 @@
 | [0044-wildcard-matching](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0344-reverse-string) |
 | [0784-letter-case-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0784-letter-case-permutation) |
@@ -296,6 +297,7 @@
 | [0044-wildcard-matching](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0940-distinct-subsequences-ii) |
@@ -318,6 +320,7 @@
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0784-letter-case-permutation) |
 | [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
