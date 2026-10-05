@@ -76,6 +76,7 @@
 | [0155-min-stack](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
@@ -104,6 +105,7 @@
 | [0344-reverse-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0784-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
@@ -611,6 +613,7 @@
 | [0022-generate-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
