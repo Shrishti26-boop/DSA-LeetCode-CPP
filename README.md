@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
@@ -331,6 +332,7 @@
 | [0039-combination-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
@@ -625,4 +627,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
