@@ -62,6 +62,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -333,6 +334,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3693-climbing-stairs-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
