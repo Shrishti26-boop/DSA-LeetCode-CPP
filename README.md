@@ -20,6 +20,7 @@
 | [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0414-third-maximum-number) |
@@ -325,6 +326,7 @@
 | [0115-distinct-subsequences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0746-min-cost-climbing-stairs) |
