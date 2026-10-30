@@ -134,6 +134,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Design
 |  |
 | ------- |
@@ -571,6 +572,7 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## DP on Trees
 |  |
 | ------- |
@@ -615,6 +617,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0347-top-k-frequent-elements) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -658,4 +661,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0070-climbing-stairs) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
