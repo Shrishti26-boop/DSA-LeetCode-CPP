@@ -30,6 +30,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
@@ -326,6 +327,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
