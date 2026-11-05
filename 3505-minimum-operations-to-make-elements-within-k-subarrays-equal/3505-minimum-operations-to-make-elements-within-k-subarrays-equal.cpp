@@ -1,109 +1,63 @@
-#include <vector>
-#include <set>
-#include <numeric>
-#include <algorithm>
-#include <climits>
-
-using namespace std;
-
 class Solution {
 public:
     long long minOperations(vector<int>& nums, int x, int k) {
         int n = nums.size();
-        
-        // Step 1: Calculate the minimum cost to make each window of size x equal
-        // cost[i] will store the minimum operations for the window starting at index i
-        vector<long long> cost(n - x + 1, 0);
-        
-        multiset<int> lower, upper;
-        long long lowerSum = 0, upperSum = 0;
-        
-        auto balance = [&]() {
-            if (lower.size() < upper.size()) {
-                int val = *upper.begin();
-                upper.erase(upper.begin());
-                lower.insert(val);
-                upperSum -= val;
-                lowerSum += val;
-            } else if (lower.size() - upper.size() > 1) {
-                int val = *lower.rbegin();
-                lower.erase(prev(lower.end()));
-                upper.insert(val);
-                lowerSum -= val;
-                upperSum += val;
-            }
+        vector<int> vals(nums);
+        sort(vals.begin(), vals.end());
+        vals.erase(unique(vals.begin(), vals.end()), vals.end());
+        int m = vals.size();
+
+        vector<int> rk(n);
+        for (int i = 0; i < n; i++)
+            rk[i] = lower_bound(vals.begin(), vals.end(), nums[i]) - vals.begin() + 1;
+
+        vector<long long> bc(m + 1, 0), bs(m + 1, 0);
+        vector<int> cntAt(m + 1, 0);
+        auto upd = [&](int i, int c, long long v) {
+            for (; i <= m; i += i & -i) { bc[i] += c; bs[i] += v; }
         };
-        
-        auto add = [&](int val) {
-            if (lower.empty() || val <= *lower.rbegin()) {
-                lower.insert(val);
-                lowerSum += val;
-            } else {
-                upper.insert(val);
-                upperSum += val;
-            }
-            balance();
-        };
-        
-        auto remove = [&](int val) {
-            auto it = lower.find(val);
-            if (it != lower.end()) {
-                lower.erase(it);
-                lowerSum -= val;
-            } else {
-                upper.erase(upper.find(val));
-                upperSum -= val;
-            }
-            balance();
-        };
-        
-        // Populate the first window
-        for (int i = 0; i < x; ++i) {
-            add(nums[i]);
+        int LOG = 0;
+        while ((1 << (LOG + 1)) <= m) LOG++;
+        int need = (x + 1) / 2;
+        long long tot = 0;
+
+        for (int i = 0; i < x; i++) {
+            upd(rk[i], 1, nums[i]); cntAt[rk[i]]++; tot += nums[i];
         }
-        
-        long long median = *lower.rbegin();
-        cost[0] = (median * lower.size() - lowerSum) + (upperSum - median * upper.size());
-        
-        // Slide the window across the entire array
-        for (int i = x; i < n; ++i) {
-            remove(nums[i - x]);
-            add(nums[i]);
-            median = *lower.rbegin();
-            cost[i - x + 1] = (median * lower.size() - lowerSum) + (upperSum - median * upper.size());
-        }
-        
-        // Step 2: DP to pick k non-overlapping windows of size x with minimum total cost
-        // dp[j] represents the min cost to pick `j` subarrays up to the current index
-        // We use an outer loop over the number of subarrays (1 to k) to save space.
-        vector<long long> dp(n + 1, LLONG_MAX / 2);
-        dp[0] = 0; // 0 operations to pick 0 subarrays
-        
-        for (int j = 1; j <= k; ++j) {
-            vector<long long> next_dp(n + 1, LLONG_MAX / 2);
-            long long min_prev = LLONG_MAX / 2;
-            
-            // The minimum index to have j-1 subarrays of size x is (j-1)*x
-            for (int i = (j - 1) * x; i <= n - x; ++i) {
-                min_prev = min(min_prev, dp[i]);
-                
-                if (min_prev != LLONG_MAX / 2) {
-                    next_dp[i + x] = min(next_dp[i + x], min_prev + cost[i]);
+
+        vector<long long> cost(n - x + 1);
+        for (int s = 0; s + x <= n; s++) {
+            int pos = 0, kk = need;
+            long long accC = 0, accS = 0;
+            for (int b = LOG; b >= 0; b--) {
+                int np = pos + (1 << b);
+                if (np <= m && bc[np] < kk) {
+                    pos = np; kk -= bc[np]; accC += bc[np]; accS += bs[np];
                 }
             }
-            
-            // Propagate the minimum values forward (since we can skip indices)
-            for (int i = 1; i <= n; ++i) {
-                next_dp[i] = min(next_dp[i], next_dp[i - i]);
+            int p = pos + 1;
+            long long med = vals[p - 1];
+            long long cntLE = accC + cntAt[p];
+            long long sumLE = accS + cntAt[p] * med;
+            cost[s] = med * cntLE - sumLE + (tot - sumLE) - med * (x - cntLE);
+
+            upd(rk[s], -1, -nums[s]); cntAt[rk[s]]--; tot -= nums[s];
+            if (s + x < n) {
+                upd(rk[s + x], 1, nums[s + x]); cntAt[rk[s + x]]++; tot += nums[s + x];
             }
-            dp = move(next_dp);
         }
-        
-        long long ans = LLONG_MAX / 2;
-        for (int i = k * x; i <= n; ++i) {
-            ans = min(ans, dp[i]);
+
+        const long long INF = LLONG_MAX / 4;
+        vector<long long> prev(n + 1, 0), cur(n + 1);
+        for (int j = 1; j <= k; j++) {
+            fill(cur.begin(), cur.end(), INF);
+            for (int i = x; i <= n; i++) {
+                long long best = cur[i - 1];
+                if (prev[i - x] < INF) best = min(best, prev[i - x] + cost[i - x]);
+                cur[i] = best;
+            }
+            swap(prev, cur);
         }
-        
-        return ans == LLONG_MAX / 2 ? -1 : ans;
+        return prev[n];
     }
 };
