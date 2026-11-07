@@ -55,6 +55,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2747-count-zero-request-servers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -165,6 +166,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2747-count-zero-request-servers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -184,6 +186,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -322,6 +325,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
