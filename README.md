@@ -45,6 +45,7 @@
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3903-smallest-stable-index-i) |
@@ -232,6 +234,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
@@ -357,6 +360,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
