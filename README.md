@@ -36,6 +36,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1254-number-of-closed-islands) |
@@ -272,6 +273,7 @@
 | [0079-word-search](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0130-surrounded-regions) |
 | [0835-image-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -595,6 +597,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1254-number-of-closed-islands) |
