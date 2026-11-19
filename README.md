@@ -57,6 +57,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -335,6 +336,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -420,6 +422,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2029-stone-game-ix) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
