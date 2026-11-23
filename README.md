@@ -41,6 +41,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1872-stone-game-viii) |
@@ -233,6 +236,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1512-number-of-good-pairs) |
@@ -677,6 +681,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/1352-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
