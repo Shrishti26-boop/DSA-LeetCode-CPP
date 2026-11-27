@@ -84,6 +84,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shrishti26-boop/DSA-LeetCode-CPP/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |
